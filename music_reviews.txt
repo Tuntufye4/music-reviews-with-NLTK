@@ -1,0 +1,94 @@
+positive	This album is absolutely fantastic! The melodies are so catchy and the lyrics are deep.
+positive	I can't stop listening to this track. It's my new favorite song!
+negative	I'm really disappointed with this album. The songs all sound the same and lack creativity.
+negative	This track is just awful. The vocals are terrible and the production quality is poor.
+positive	Such a great album! Every song is a masterpiece.
+positive	I love the energy in this track. It's perfect for working out.
+negative	This album was a huge letdown. The songs are forgettable and uninspired.
+negative	I don't understand the hype around this track. It's mediocre at best.
+positive	Amazing album! It's been on repeat since I first heard it.
+positive	This track always puts me in a good mood. I can't get enough of it.
+negative	I was really looking forward to this album, but it's just not doing it for me.
+negative	I can't believe how bad this track is. It's like nails on a chalkboard.
+positive	The melodies in this song are so beautiful. It's a masterpiece.
+positive	Love this album! It's been playing non-stop in my car.
+negative	I regret buying this album. It's not worth the money.
+negative	This track is so boring. It puts me to sleep every time I listen to it.
+positive	Such a fun album! It's impossible not to dance to these songs.
+positive	I can't get enough of this track. It's been stuck in my head all day.
+negative	This album is a disappointment. The songs are generic and uninspired.
+negative	I don't understand why everyone likes this track. It's nothing special.
+positive	This album exceeded all my expectations. Every song is a hit.
+positive	I love the lyrics in this track. They really speak to me.
+negative	I'm so disappointed with this album. It's not what I was expecting at all.
+negative	This track is terrible. I can't believe it's even on the radio.
+positive	Absolutely love this album! It's a masterpiece.
+positive	This track is fire! I can't stop listening to it.
+negative	I can't believe how bad this album is. It's a complete waste of money.
+negative	This song is so annoying. I can't stand listening to it.
+positive	This album is pure gold. Every song is a hit.
+positive	I'm obsessed with this track. It's been on repeat all week.
+negative	I was really looking forward to this album, but it's just not good.
+negative	This track is terrible. I can't believe people actually like it.
+positive	Such a great album! It's been on repeat since it came out.
+positive	I love the beat in this track. It's so catchy.
+negative	I'm so disappointed with this album. It's a huge letdown.
+negative	This track is awful. I can't believe I wasted money on it.
+positive	Amazing album! It's been playing non-stop in my headphones.
+positive	This song always puts me in a good mood. I love it.
+negative	This album is so boring. I can't listen to it without falling asleep.
+negative	I don't understand why everyone likes this track. It's terrible.
+positive	Such a fun album! I can't stop dancing to these songs.
+positive	I can't get this track out of my head. It's so catchy.
+negative	This album is a disappointment. The songs are all the same.
+negative	I regret buying this album. It's not worth the money at all.
+positive	Love this album! It's been playing on repeat for days.
+negative	This track is so boring. I can't believe people actually like it.
+positive	Absolutely love this album! It's a must-listen.
+positive	This track is fire! I can't stop listening to it.
+negative	I can't believe how bad this album is. It's a complete waste of time.
+negative	This song is terrible. I can't stand listening to it.
+positive	This album is pure gold. Every song is a masterpiece.
+positive	I'm obsessed with this track. It's been on repeat all week.
+negative	I was really looking forward to this album, but it's just not good enough.
+negative	This track is awful. I can't believe I wasted money on it.
+positive	Amazing album! It's been playing non-stop in my car.
+positive	This song always puts me in a good mood. I love it.
+negative	This album is so boring. I can't listen to it without falling asleep.
+negative	I don't understand why everyone likes this track. It's terrible.
+positive	Such a fun album! I can't stop dancing to these songs.
+positive	I can't get this track out of my head. It's so catchy.
+negative	This album is a disappointment. The songs are all the same.
+negative	I regret buying this album. It's not worth the money at all.
+positive	Love this album! It's been playing on repeat for days.
+negative	This track is so boring. I can't believe people actually like it.
+positive	Absolutely love this album! It's a must-listen.
+positive	This track is fire! I can't stop listening to it.
+negative	I can't believe how bad this album is. It's a complete waste of time.
+negative	This song is terrible. I can't stand listening to it.
+positive	This album is pure gold. Every song is a masterpiece.
+positive	I'm obsessed with this track. It's been on repeat all week.
+negative	I was really looking forward to this album, but it's just not good enough.
+negative	This track is awful. I can't believe I wasted money on it.
+positive	Amazing album! It's been playing non-stop in my car.
+positive	This song always puts me in a good mood. I love it.
+negative	This album is so boring. I can't listen to it without falling asleep.
+negative	I don't understand why everyone likes this track. It's terrible.
+positive	Such a fun album! I can't stop dancing to these songs.
+positive	I can't get this track out of my head. It's so catchy.
+negative	This album is a disappointment. The songs are all the same.
+negative	I regret buying this album. It's not worth the money at all.
+positive	Love this album! It's been playing on repeat for days.
+negative	This track is so boring. I can't believe people actually like it.
+positive	Absolutely love this album! It's a must-listen.
+positive	This track is fire! I can't stop listening to it.
+negative	I can't believe how bad this album is. It's a complete waste of time.
+negative	This song is terrible. I can't stand listening to it.
+positive	This album is pure gold. Every song is a masterpiece.
+positive	I'm obsessed with this track. It's been on repeat all week.
+negative	I was really looking forward to this album, but it's just not good enough.
+negative	This track is awful. I can't believe I wasted money on it.
+positive	Amazing album! It's been playing non-stop in my car.
+positive	This song always puts me in a good mood. I love it.
+negative	This album is so boring. I can't listen to it without falling asleep.
+negative	I don't understand why everyone likes this track. It's terrible.
